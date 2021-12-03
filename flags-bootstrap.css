@@ -1,0 +1,27 @@
+.body{
+    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.flag{
+    height:250px;
+    width:100%;
+    /* object-fit:cover; */
+}
+
+.flag-container{
+    background-color: white;
+    border-radius: 10px;
+    overflow:hidden;
+    /* background-color:grey; */
+    box-shadow:rgba(0,0,0,0.1) 0px 4px 12px;
+    margin:20px 0px;
+    height:100%;
+}
+
+.details{
+    padding: 10px;
+}
+
+.space{
+    padding:10px;
+}
